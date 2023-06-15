@@ -14,6 +14,7 @@ namespace To_Do_App
     {
         private string newTask;
 
+
         public form1()
         {
             InitializeComponent();
@@ -26,7 +27,7 @@ namespace To_Do_App
 
         private void button1_Click(object sender, EventArgs e)
         {
-            newTask = newTaskBox.Text;
+            newTask += newTaskBox.Text;
             MessageBox.Show("You have added a task!");
             tasksBox.Text = newTask;
         }
