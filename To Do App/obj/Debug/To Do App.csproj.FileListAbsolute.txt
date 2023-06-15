@@ -1,0 +1,11 @@
+C:\Users\ThVandy\Desktop\Coding-Projects\To Do App\bin\Debug\To Do App.exe.config
+C:\Users\ThVandy\Desktop\Coding-Projects\To Do App\bin\Debug\To Do App.exe
+C:\Users\ThVandy\Desktop\Coding-Projects\To Do App\bin\Debug\To Do App.pdb
+C:\Users\ThVandy\Desktop\Coding-Projects\To Do App\obj\Debug\To Do App.csproj.AssemblyReference.cache
+C:\Users\ThVandy\Desktop\Coding-Projects\To Do App\obj\Debug\To Do App.csproj.SuggestedBindingRedirects.cache
+C:\Users\ThVandy\Desktop\Coding-Projects\To Do App\obj\Debug\To_Do_App.Form1.resources
+C:\Users\ThVandy\Desktop\Coding-Projects\To Do App\obj\Debug\To_Do_App.Properties.Resources.resources
+C:\Users\ThVandy\Desktop\Coding-Projects\To Do App\obj\Debug\To Do App.csproj.GenerateResource.cache
+C:\Users\ThVandy\Desktop\Coding-Projects\To Do App\obj\Debug\To Do App.csproj.CoreCompileInputs.cache
+C:\Users\ThVandy\Desktop\Coding-Projects\To Do App\obj\Debug\To Do App.exe
+C:\Users\ThVandy\Desktop\Coding-Projects\To Do App\obj\Debug\To Do App.pdb
