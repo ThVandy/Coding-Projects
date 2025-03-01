@@ -103,7 +103,7 @@ void loop() {
     String decode(data);
 	delay(100);
 	
-	//You can use the string to check against and preform other actions
+	//You can use the string to check against and perform other actions
 	//if (decode == "YourServerMessage") {
 	//	Do the thing
 	//  }
